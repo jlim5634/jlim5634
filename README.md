@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+## Hi my name is Joshua but you can call me Josh! I am a first-year undergraduate at the University of San Francisco majoring in computer science and I am interested in AI development. Outside of school, I like to stay active by playing basketball or golfing.
+
+
 **jlim5634/jlim5634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
