@@ -60,7 +60,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:jelim@dons.usfca.edu">
+<a href="mailto:jelim4@dons.usfca.edu">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/joshualim2006/">
