@@ -45,7 +45,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB801B?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
+![D3.js](https://img.shields.io/badge/D3.js-F26522?style=for-the-badge&logo=d3.js&logoColor=white)
 
 
 #### 🔧 Tools
