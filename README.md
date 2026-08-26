@@ -14,7 +14,7 @@
 
 ---
 
-- 👨‍💻 Hi I'm Joshua Lim and I am a Computer Science undergraduate at the University of San Francisco, currently pursuing an accelerated path through our 4+1 Master’s program which is a selective track capped at 10–20 students per cohort. My academic focus is concentrated in Artificial Intelligence and Machine Learning. I am particularly driven by systems-level programming, with a focus on writing efficient, high-performance C++ to optimize the execution of complex algorithmic systems.
+- 👨‍💻 Hi I'm Joshua Lim and I am a Computer Science undergraduate at the University of San Francisco, currently pursuing an accelerated path through our 4+1 Master’s program which is a selective track capped at <6 students per cohort. My academic focus is concentrated in Artificial Intelligence and Machine Learning. I am particularly driven by systems-level programming, with a focus on writing efficient, high-performance C++ to optimize the execution of complex algorithmic systems.
      I'm passionate about applying algorithms, models, and software to AI/ML, quantitative trading, and the tech industry as a whole. Outside of school, I have an interest for barbering and am very passionate about weightlifting and staying active through basketball or golf. Feel free to connect with me!
 
 ## 🛠 &nbsp;Tech Stack
@@ -46,7 +46,6 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB801B?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F26522?style=for-the-badge&logo=d3.js&logoColor=white)
-
 
 #### 🔧 Tools
 
